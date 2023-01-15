@@ -1,2 +1,2 @@
-# other_project-
+# other_project
 other learning project
